@@ -9,3 +9,4 @@ pkginfo
 jupyter_core >=4.7
 jupyterlab >=3.5.3,<3.6
 importlib_metadata
+tornado>=6.3.3 # not directly required, pinned by Snyk to avoid a vulnerability
