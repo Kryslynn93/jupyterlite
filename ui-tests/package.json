@@ -20,7 +20,7 @@
     "test:update": "playwright test --update-snapshots"
   },
   "dependencies": {
-    "@jupyterlab/galata": "~4.4.3",
+    "@jupyterlab/galata": "~4.5.5",
     "yarn-deduplicate": "^3.1.0"
   },
   "devDependencies": {
