@@ -9,3 +9,8 @@ pkginfo
 jupyter_core >=4.7
 jupyterlab >=3.5.3,<3.6
 importlib_metadata
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.15.0 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
+requests-cache>=0.6.0.dev1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
