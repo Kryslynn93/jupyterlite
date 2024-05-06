@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@jupyterlab/application": "~3.5.3",
-    "@jupyterlab/console": "~3.5.3",
+    "@jupyterlab/console": "~4.0.0",
     "@jupyterlab/coreutils": "~5.5.3",
     "@jupyterlab/docmanager": "~3.5.3",
     "@jupyterlab/services": "~6.5.3",
