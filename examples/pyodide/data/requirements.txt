@@ -8,3 +8,4 @@ keras      ; platform_system != "Emscripten" # or even ...
 # ...or a URL ending in (but generally not from PyPI because CORS) ending in:
 # - py3-none-any.whl or
 # - cp310-cp310-emscripten_3_1_14_wasm32.whl
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
