@@ -38,8 +38,8 @@
   },
   "dependencies": {
     "@jupyterlab/application": "~3.5.3",
-    "@jupyterlab/apputils": "~3.5.3",
-    "@jupyterlab/console": "~3.5.3",
+    "@jupyterlab/apputils": "~4.3.0",
+    "@jupyterlab/console": "~4.0.0",
     "@jupyterlab/translation": "~3.5.3",
     "@jupyterlab/ui-components": "~3.5.3",
     "@jupyterlite/application": "^0.1.0",
